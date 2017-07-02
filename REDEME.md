@@ -1,4 +1,4 @@
 # Gitチュートリアル
 
-  - feture-A
+  - feature-A
 
